@@ -1,9 +1,22 @@
+import NavBar from "./components/NavBar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Support from "./components/Support";
+import Platform from "./components/Platform";
+import Pricing from "./components/Pricing";
+import Footer from "./components/Footer";
 
 function App() {
 
   return (
     <>
-      <h1>Hello.</h1>
+      <NavBar />
+      <Hero />
+      <About />
+      <Support />
+      <Platform />
+      <Pricing />
+      <Footer />
     </>
   )
 }
