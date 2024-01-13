@@ -1,10 +1,10 @@
-import NavBar from "./components/NavBar";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Support from "./components/Support";
-import Platform from "./components/Platform";
-import Pricing from "./components/Pricing";
-import Footer from "./components/Footer";
+import NavBar from "./components/NavBar/NavBar";
+import Hero from "./components/Hero/Hero";
+import About from "./components/About/About";
+import Support from "./components/Support/Support";
+import Platform from "./components/Platform/Platform";
+import Pricing from "./components/Pricing/Pricing";
+import Footer from "./components/Footer/Footer";
 
 function App() {
 
